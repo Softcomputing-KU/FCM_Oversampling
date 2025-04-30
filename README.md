@@ -1,2 +1,6 @@
 ## IEEE Transactions on Fuzzy systems
-## Preparing... 
+## Preparing...
+
+## Toy exam result
+
+![Framework](./Toy_exam.png)
